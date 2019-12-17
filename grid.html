@@ -8,8 +8,9 @@
     <style>
       .father {
         display: grid;
-        grid-template-columns: 30px;
-        grid-template-rows: 30px;
+        grid-template-rows: 30px 12px;
+        grid-template-columns: 30px 50px;
+        grid-gap: 5px;
       }
       .box {
         background-color: #f1c40f;
@@ -19,6 +20,10 @@
   <body>
     <!-- when input ".father>.box*6", output as below -->
     <div class="father">
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
+      <div class="box"></div>
       <div class="box"></div>
       <div class="box"></div>
       <div class="box"></div>
