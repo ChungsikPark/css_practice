@@ -21,9 +21,9 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 - [v] Justify Content, Align Content and Place Content
 - [v] Justify Items, Align Items and Place Items
 - [v] Grid Column, Column Start and End
-- [ ] Line Naming
-- [ ] Grid Row, Row start and End
-- [ ] Grid Area
+- [v] Line Naming
+- [v] Grid Row, Row start and End
+- [v] Grid Area
 - [ ] Justify, Align, Place Self
 
 ### CSS4 Selectors
