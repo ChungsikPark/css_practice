@@ -28,7 +28,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 ### Using CSS4
 
-- [ ] Installing Parcel
+- [v] Installing Parcel
 - [ ] Configuring PostCSS
 - [ ] Testing
 
