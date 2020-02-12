@@ -29,15 +29,15 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 ### Using CSS4
 
 - [v] Installing Parcel
-- [ ] Configuring PostCSS
-- [ ] Testing
+- [v] Configuring PostCSS
+- [v] Testing
 
 ### CSS4 Selectors
 
-- [ ] :any-link , :matches , :not
+- [v] :matches , :not
 - [ ] CSS Variables
 - [ ] @custom-media, @custom-selector
-- [ ] Media Query Ranges
+- [ ] Media Query Ranges`
 - [ ] font-variant, gray(), system-ui
 - [ ] Nesting Rules
 
