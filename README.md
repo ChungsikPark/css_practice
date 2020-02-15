@@ -36,9 +36,9 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 - [v] :matches , :not
 - [v] CSS Variables
-- [ ] @custom-media
-- [ ] @custom-selector
-- [ ] Media Query Ranges`
+- [v] @custom-media
+- [v] @custom-selector
+- [v] Media Query Ranges`
 - [ ] font-variant, gray(), system-ui
 - [ ] Nesting Rules
 
