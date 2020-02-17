@@ -34,10 +34,32 @@ li:first-child a {
 
 /* ----- custom media and media query ranges ----- */
 
-@custom-media --ipad-size (450px <= width <= 850px);
+/* @custom-media --ipad-size (450px <= width <= 850px);
 
 @media (--ipad-size) {
   body {
     background-color: red;
   }
+} */
+
+/* color-mod */
+
+/* h1 {
+  color: #f1c40f;
+}
+
+h1:hover {
+  color: color-mod(#f1c40f lightness(80%));
+} */
+
+/* gray */
+
+/* h1 {
+  color: gray(50);
+} */
+
+/* sysytem ui */
+
+h1 {
+  color: system-ui;
 }
