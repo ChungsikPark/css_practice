@@ -32,7 +32,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 - [v] Configuring PostCSS
 - [v] Testing
 
-### CSS4 Selectors
+### CSS4 Awsomeness
 
 - [v] :matches , :not
 - [v] CSS Variables
@@ -40,7 +40,7 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 - [v] @custom-selector
 - [v] Media Query Ranges`
 - [v] color-mod, gray(), system-ui
-- [ ] Nesting Rules
+- [v] Nesting Rules
 
 ### CSS Grid KISS
 

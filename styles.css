@@ -60,6 +60,26 @@ h1:hover {
 
 /* sysytem ui */
 
-h1 {
+/* h1 {
   color: system-ui;
+} */
+
+/* nesting rules */
+
+main {
+  background-color: blue;
+  & section {
+    background-color: red;
+    width: 500px;
+    & li {
+      background-color: yellow;
+      width: 400px;
+      & a {
+        color: black;
+        &:hover {
+          font-size: 30px;
+        }
+      }
+    }
+  }
 }
