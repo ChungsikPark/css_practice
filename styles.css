@@ -7,35 +7,27 @@
 } */
 
 /* ----- functional pseudo classes ----- */
-
 /* :root {
   --awsomeColor: #e74c3c;
 }
-
 li:first-child a {
   color: var(--awsomeColor);
 } */
 
 /* ----- css variable ----- */
-
 /* :root {
   --awsomeColor: 1px solid red;
 }
-
 li:first-child a {
   border: var(--awsomeColor);
 }
-
 @custom-selector :--headers h1, h2, h3, h4, h5, h6;
-
 :--headers {
   color: #8e44ad;
 } */
 
 /* ----- custom media and media query ranges ----- */
-
 /* @custom-media --ipad-size (450px <= width <= 850px);
-
 @media (--ipad-size) {
   body {
     background-color: red;
@@ -43,29 +35,24 @@ li:first-child a {
 } */
 
 /* color-mod */
-
 /* h1 {
   color: #f1c40f;
 }
-
 h1:hover {
   color: color-mod(#f1c40f lightness(80%));
 } */
 
 /* gray */
-
 /* h1 {
   color: gray(50);
 } */
 
 /* sysytem ui */
-
 /* h1 {
   color: system-ui;
 } */
 
 /* nesting rules */
-
 main {
   background-color: blue;
   & section {

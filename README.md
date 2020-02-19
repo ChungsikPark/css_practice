@@ -44,6 +44,6 @@ CSS Masterclass course (Flexbox, Grid, PostCSS, CSSNext)
 
 ### CSS Grid KISS
 
-- [ ] Introduction
-- [ ] KISS Calculator
-- [ ] KISS Blog
+- [v] Introduction
+- [v] KISS Calculator
+- [v] KISS Blog
